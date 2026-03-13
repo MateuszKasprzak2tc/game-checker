@@ -4,7 +4,7 @@ import GameDetails from "./pages/GameDetails";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/root">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/game/:id" element={<GameDetails />} />

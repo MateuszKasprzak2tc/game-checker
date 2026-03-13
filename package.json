@@ -2,7 +2,7 @@
   "name": "game-checker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mateuszkasprzak2tc.github.io/game-checker",
+  "homepage": "https://MateuszKasprzak2tc.github.io/game-checker",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
